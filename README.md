@@ -11,6 +11,6 @@
 Pixels and sounds by: 
 
 - Tricia Katz ([Github](https://github.com/trishkatz) / [Twitter](https://twitter.com/triciaakatz))
-- [Michael Hazani] ([Twitter](https://twitter.com/michaelhazani))
+- Michael Hazani ([Twitter](https://twitter.com/michaelhazani))
 
 Model:  Decorative Sphere by outofourlives (https://skfb.ly/6Lyyp)
